@@ -20,3 +20,22 @@ This project analyzes an online retail dataset to segment customers based on the
 The dataset used is the [Online Retail dataset] from Kaggle, containing transactional data from a UK-based online retailer.
 
 ---
+
+
+## Results and Insights
+
+- Successfully segmented customers into distinct groups: high-value, loyal, potential loyalists, and at-risk, based on their purchasing behavior.  
+- Clustering analysis confirmed natural groupings, enabling tailored marketing strategies for each segment.  
+- Visualization through PCA provided clear separation of customer clusters, aiding business stakeholders in understanding segment characteristics.  
+- Recommended targeted retention campaigns for loyal customers and re-engagement efforts for at-risk customers to boost customer lifetime value and reduce churn.
+
+---
+
+## Technologies Used
+
+- Python  
+- Pandas for data manipulation and cleaning  
+- NumPy for numerical operations  
+- Scikit-learn for clustering (K-Means) and preprocessing (scaling, PCA)  
+- Matplotlib and Seaborn for data visualization  
+- Google Colab for exploratory analysis and development  
